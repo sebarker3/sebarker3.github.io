@@ -1,4 +1,0 @@
-# README
-
-Learning web stuff.
-
