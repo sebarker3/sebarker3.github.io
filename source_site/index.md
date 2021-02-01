@@ -92,7 +92,7 @@ For instance, the commands `\scal` and `\R` are defined in the config file (see 
 
 Now we can write something like
 
-$$ \varphi(\E{X}) \le \E{\varphi(X)}. \label{equation blah} $$
+$$  \varphi(\E{X}) \le \E{\varphi(X)}. \label{equation blah} $$
 
 since we've given it the label `\label{equation blah}`, we can refer it like so: \eqref{equation blah} which can be convenient for pages that are math-heavy.
 
